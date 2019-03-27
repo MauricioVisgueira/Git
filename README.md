@@ -1,5 +1,5 @@
 # Curso sobre Git
 
-![./git.jpg](git + GitHub)
+![git + GitHub](./git.jpg)
 
 Este repositório serve de exemplo para o curso de Git e GitHub.
